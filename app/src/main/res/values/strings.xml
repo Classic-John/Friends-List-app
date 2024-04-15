@@ -1,0 +1,81 @@
+<resources>
+    <string name="app_name">anotherApp</string>
+    <string name="login">Login</string>
+    <string name="Name">Name</string>
+    <string name="name">Name</string>
+
+    <string-array name="names">
+        <item>Mara</item>
+        <item>Robert</item>
+        <item>Marius</item>
+        <item>Cristina</item>
+        <item>Anca</item>
+        <item>Ion</item>
+        <item>George</item>
+        <item>Antonie</item>
+        <item>Solomon</item>
+        <item>Gabriel</item>
+    </string-array>
+    <string-array name="passwords">
+        <item>Mara</item>
+        <item>Robert</item>
+        <item>Marius</item>
+        <item>Cristina</item>
+        <item>Anca</item>
+        <item>Ion</item>
+        <item>George</item>
+        <item>Antonie</item>
+        <item>Solomon</item>
+        <item>Gabriel</item>
+    </string-array>
+    <string-array name="descriptions">
+        <item>Beautiful and strong girl.Likes to cook, play games,read books and do house choirs</item>
+        <item>Big bodybuilder. Likes to take walks in the park, climb mountains,ride bikes and drink beer</item>
+        <item>Good football player. Likes to play football with friends, watch football matches , drink beer and eat popcorn and hotdogs when watching movies</item>
+        <item>Bon Jovi fan girl. Likes rock music, she goes to rock and metal concerts and also gossip about everything</item>
+        <item>Workaholic women.Likes to work 12 hours a day, read books about her profession and be a good speaker</item>
+        <item>Best cage fighter.Likes muay thai, especially in MMA contexts,watch horror movies and to drive cars.</item>
+        <item>Casual farmer boy.Likes to drive the tractor, be in the cornfield, and harvest anything in general, especially grapes.</item>
+        <item>Nice priest.Likes to pray in churches, to earn money and to stay with this family whenever he has free time</item>
+        <item>Rich boy.Likes to give orders to people,pay his workers salaries when they truly deserve them and to stay with his wife at home</item>
+        <item>Smart programmer.Likes to make games in unity, make android apps for money and run private torrent sites.</item>
+    </string-array>
+    <string-array name="ages">
+        <item>25</item>
+        <item>20</item>
+        <item>18</item>
+        <item>23</item>
+        <item>35</item>
+        <item>30</item>
+        <item>22</item>
+        <item>50</item>
+        <item>28</item>
+        <item>20</item>
+    </string-array>
+    <string-array name="images">
+        <item>https://images.unsplash.com/photo-1561131989-b8112bafbd43?q=80&amp;w=1587&amp;auto=format&amp;fit=crop&amp;ixlib=rb-4.0.3&amp;ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D</item>
+        <item>https://images.unsplash.com/photo-1618517048008-1cbdfd7ce2af?q=80&amp;w=1587&amp;auto=format&amp;fit=crop&amp;ixlib=rb-4.0.3&amp;ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D</item>
+        <item>https://images.unsplash.com/photo-1571512599285-9ac4fdf3dba9?q=80&amp;w=1587&amp;auto=format&amp;fit=crop&amp;ixlib=rb-4.0.3&amp;ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D</item>
+        <item>https://images.unsplash.com/photo-1504433374832-4fcf45f40967?w=500&amp;auto=format&amp;fit=crop&amp;q=60&amp;ixlib=rb-4.0.3&amp;ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8c2F1cm9ufGVufDB8fDB8fHww</item>
+        <item>https://images.unsplash.com/photo-1519003300449-424ad0405076?q=80&amp;w=1598&amp;auto=format&amp;fit=crop&amp;ixlib=rb-4.0.3&amp;ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D</item>
+        <item>https://images.unsplash.com/photo-1586490915014-b2490ffd4727?q=80&amp;w=1480&amp;auto=format&amp;fit=crop&amp;ixlib=rb-4.0.3&amp;ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D</item>
+        <item>https://images.unsplash.com/photo-1596545872035-1b592e37f28c?q=80&amp;w=1473&amp;auto=format&amp;fit=crop&amp;ixlib=rb-4.0.3&amp;ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D</item>
+        <item>https://images.unsplash.com/photo-1578831906480-b33b9282891b?q=80&amp;w=1587&amp;auto=format&amp;fit=crop&amp;ixlib=rb-4.0.3&amp;ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D</item>
+        <item>https://images.unsplash.com/photo-1572453020814-972b244074d4?q=80&amp;w=1287&amp;auto=format&amp;fit=crop&amp;ixlib=rb-4.0.3&amp;ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D</item>
+        <item>https://images.unsplash.com/photo-1612218405747-09db1505179c?q=80&amp;w=1470&amp;auto=format&amp;fit=crop&amp;ixlib=rb-4.0.3&amp;ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D</item>
+    </string-array>
+    <string-array name="links">
+        <item>"https://www.gandul.ro/"</item>
+        <item>https://www.theguardian.com/europe"</item>
+        <item>https://edition.cnn.com/</item>
+        <item>https://www.unitbv.ro/</item>
+        <item>https://www.talentingsoftware.ro/</item>
+        <item>https://www.amcham.ro/company/waters-romania</item>
+        <item>https://www.emag.ro/</item>
+        <item>https://store.steampowered.com/</item>
+        <item>https://ing.ro/persoane-fizice</item>
+        <item>https://delicio.ro/brasov/</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
